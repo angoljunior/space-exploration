@@ -1,0 +1,44 @@
+body {
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    color: #82a5ca;
+    
+}
+
+h1 {
+    color: whitesmoke;
+}
+
+#logo {
+    width: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color: black;
+   
+}
+
+.text-selected {
+    border-bottom: 5px solid white;
+}
+
+.btn {
+     background: white;
+     border: none;
+     font-family: inherit;
+     color: #82a5ca;
+     font-weight: bold;
+}
+
+.hero {
+    border: 2px solid whitesmoke;
+    margin: auto;
+    padding: 20px;
+    background-image: url("universe animated.webp");
+    background-size: cover;
+}
+
+.terms {
+    color: black;
+    font-weight: bold;
+}
